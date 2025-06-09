@@ -74,3 +74,7 @@ Então, ao acessar a URL exibida, você pode visualizar o site estático hospeda
    terraform apply
    ```
 7. Acesse o Site: Após a execução, copie a URL exibida no terminal e acesse o site estático
+
+---
+
+Notas: Projeto realizado com base em https://github.com/josercf/FIAP-EC4R-RDS-TERRAFORM
